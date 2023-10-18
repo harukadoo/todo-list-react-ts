@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//harukadoo.github.io/todo-list-react-ts/static/css/main.7beb5264.css",
+    "main.js": "//harukadoo.github.io/todo-list-react-ts/static/js/main.0a81a988.js",
+    "index.html": "//harukadoo.github.io/todo-list-react-ts/index.html",
+    "main.7beb5264.css.map": "//harukadoo.github.io/todo-list-react-ts/static/css/main.7beb5264.css.map",
+    "main.0a81a988.js.map": "//harukadoo.github.io/todo-list-react-ts/static/js/main.0a81a988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7beb5264.css",
+    "static/js/main.0a81a988.js"
+  ]
+}
